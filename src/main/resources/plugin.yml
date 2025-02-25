@@ -1,0 +1,13 @@
+name: CriticalDiscord
+version: '1.0-SNAPSHOT'
+main: org.criticalking.criticalDiscord.CriticalDiscord
+api-version: '1.19'
+description: "A plugin that ensures seamless discord integration."
+author: "Critical <3"
+website: "https://critical.lol/"
+commands:
+  discord:
+    description: "Main Discord command"
+    usage: "/discord [<link>]"
+    aliases: [dc]
+    permission: "criticaldiscord.use"

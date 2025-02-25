@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN",
+    "clientId": "CLIENT-ID",
+    "mysql": {
+      "connectionString": "JDBC-CONNECTION-STRING"
+    }
+  }
+  
